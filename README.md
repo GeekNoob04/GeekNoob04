@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full stack development<br>💬 Ask me about anything<br>⚡ Always experimenting: from cat memes 🐱 to fullstack JWT auth 🔐.
+🌱 I’m currently learning fullstack development<br>💬 Ask me about anything<br>⚡ Always experimenting: from cat memes 🐱 to fullstack JWT auth 🔐.
 
 
 ## 🌐 Socials:
